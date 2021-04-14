@@ -1,0 +1,19 @@
+{
+  "name": "publish-in-npm",
+  "version": "1.0.0",
+  "description": "first publish test",
+  "main": "helloword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmayke/publish-in-npm.git"
+  },
+  "author": "Mayke Ken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmayke/publish-in-npm/issues"
+  },
+  "homepage": "https://github.com/devmayke/publish-in-npm#readme"
+}
