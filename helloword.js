@@ -1,1 +1,5 @@
-module.exports.qualquercoisa= funtion(){console.log("hello world")}
+function qualquercoisa(){console.log("hello world")}
+
+
+
+module.exports.qualquercoisa= qualquercoisa
