@@ -11,7 +11,7 @@
     "url": "git+https://github.com/devmayke/publish-in-npm.git"
   },
   "author": "Mayke Ken",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/devmayke/publish-in-npm/issues"
   },
