@@ -1,6 +1,5 @@
 {
-  "name": "publish-in-npm",
-  "version": "1.0.0",
+  "name": "myhelloworldmayke"  "version": "1.0.0",
   "description": "first publish test",
   "main": "helloword.js",
   "scripts": {
